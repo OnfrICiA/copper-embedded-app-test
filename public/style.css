@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#enrichedData {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+#enrichedData h2 {
+    margin-top: 0;
+}
+
+#enrichedData p {
+    margin: 10px 0;
+}
+
+#enrichedData span {
+    font-weight: bold;
+}
